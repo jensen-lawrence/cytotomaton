@@ -1,5 +1,5 @@
-# cytotomaton
-`cytotomaton` is an implementation of many life-like cellular automata, including Conway's Game of Life. To run a celluler automaton, use the `run` function. In general, executing
+# cytomaton
+`cytomaton` is an implementation of many life-like cellular automata, including Conway's Game of Life. To run a celluler automaton, use the `run` function. In general, executing
 
 ```python
 run(
